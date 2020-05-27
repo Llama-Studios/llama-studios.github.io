@@ -1,0 +1,9 @@
+---
+---
+
+$img: "{{ site.theme_bg }}";
+$accent: {{ site.theme_accent }};
+$text: {{ site.theme_text }};
+
+@import "style";
+@import "highlight";
