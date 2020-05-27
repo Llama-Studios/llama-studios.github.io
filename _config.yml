@@ -14,7 +14,7 @@ twitter_username:
 github_username: Llama-Studios
 # theme - fill out if you want to change colors
 
-theme_bg: "https://images.unsplash.com/photo-1468931467769-06a09c69aad3?&w=1050&q=80" # url to the background of every page
+theme_bg: "https://lh3.googleusercontent.com/-arUCBARXiDQ/Xs60ky7rS4I/AAAAAAAAAAk/7IWuimGTdpgbEDOtCLFV0GyKgxf4hi89gCEwYBhgLKs4DAL1OcqwE84oiLrreV8ThQG70zs3noP-fzCS_gYkh8yD1Rp9z0psmG-qPvmKLiwO_Frv-vEiDs6m2vtMDM5irS9e3Jklw_5sJDRk2NLJ20JNh0tDTLGk7RZEFUF-tO4RvGvDXA_pvNSsQGz99LHdQmM_wLZAdLdZkkQhPhE7mFC296dlIXnD8cHETDQtqZmgToehvVFVoI2Vu8I-Wqf_8rYB7K6uiuAMfT5wf9RxGByHX50ZLOeiOYzwjVZBH4ZugAqHmkWR09xVZn5BGL0qhCGDnyUr40HGP0xWJrFskDWagS4oDcgue_hjEQ268qdQoMWR257qznrJQfHovhPGVsCVf25pCMMCef0KG-YEUr2k9TcpiTi28W_x1gf7OTYgtNfj5Viq0w2KnDjry_tU-ivvIyM0xJXqLYLmu1HhhzbV02A4T4OWpIZojrQIsVM03bV2w4sU7FCpT93KL7ow8QwNRFPKOA85xyecaglzjOZBE6beutneNxCz9CdVepKsKYiTO5akUnjNlzrlkvQVp11JBqqyQCt3DCvYjvjIoynEDjDR914L4iXgzRJ1C3imqj4fUlYzxZrM1AAaoJZn18oQeTXZ-SKRTLSeWjOF0MKf8uvYF/w280-h156-p/Channel%2BArt.png" # url to the background of every page
 theme_text: "#ffffff" # color of all text, should contrast with background image
 theme_accent: "#ee8800" # color of links and some other things
 
