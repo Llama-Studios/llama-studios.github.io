@@ -1,0 +1,39 @@
+  
+remote_theme: simple-themes/splash-theme
+
+title: Llama Studios
+author: Llama-Studios
+description: Example site with the Splash theme.
+# Link to a profile picture - required
+avatar: https://avatars1.githubusercontent.com/u/65722273?s=200&v=4
+# path to your repository - required
+repo: llama-studios/llama-studios.github.io
+# social links - optional
+mail:  
+twitter_username: 
+github_username: Llama-Studios
+# theme - fill out if you want to change colors
+
+theme_bg: "https://images.unsplash.com/photo-1468931467769-06a09c69aad3?&w=1050&q=80" # url to the background of every page
+theme_text: "#ffffff" # color of all text, should contrast with background image
+theme_accent: "#ee8800" # color of links and some other things
+
+# Optional config - just for more customization or troubleshooting
+# how many posts to show per page
+paginate: 20
+
+# change this if you are on a project repo, not a username.github.io repo
+# for example, if your repo is hello-world, set this to hello-world
+path: 
+
+# Ignore the rest of this file unless you want to change more settings
+rss: rss
+permalink: /blog/:title/
+
+paginate_path: "/blog/:num/"
+
+sass:
+    style: compact
+
+plugins:
+ - jekyll-feed
