@@ -1,3 +1,8 @@
+---
+title: Home
+nav_order: 1
+---
+
 # Llama Studios
 Welcome to my website. Here you can find downloads and documentation for all of my addons.
 
