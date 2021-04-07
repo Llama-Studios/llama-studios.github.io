@@ -1,5 +1,6 @@
 ---
 title: License
+nav_order: 3
 ---
 # License
 All Llama Studios addons are protected by the following policies, which you agree to by downloading.
@@ -31,6 +32,15 @@ You can also remove features from my addons if you really want to, I won't be th
 
 Other than that, you __may not__ make changes to my addons as part of your modpack.
 
+## Links
+When linking to my addons, make sure you use link to either this website (llama-studios.github.io) or to MCPEDL.
+
+You __may not__ create your own download link.
+
+You __may not__ put the link through a URL shortener. This includes AdFly, Linkvertise, or similar websites.
+
+You __must__ include a link, and make it clear that I made the addon, not you.
+
 ## Modification
 You may make changes to my addons for personal use.
 
@@ -42,12 +52,3 @@ You __may not__ make any money off of your modpack if you include my addons. Thi
 You may look at my code and copy brief snippets.
 
 You __may not__ copy large sections of an addon's code and claim it as your own work.
-
-## Links
-When linking to my addons, make sure you use link to either this website (llama-studios.github.io) or to MCPEDL.
-
-You __may not__ create your own download link.
-
-You __may not__ put the link through a URL shortener. This includes AdFly, Linkvertise, or similar websites.
-
-You __must__ include a link, and make it clear that I made the addon, not you.
