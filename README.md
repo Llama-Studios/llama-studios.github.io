@@ -1,9 +1,3 @@
----
-note: You're not supposed to be reading this here, go check out the actual website at llama-studios.github.io
-title: Home
-nav_order: 1
----
-
 # Llama Studios
 Welcome to my website. Here you can find downloads and documentation for all of my addons.
 
