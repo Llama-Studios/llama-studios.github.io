@@ -1,0 +1,27 @@
+// I know this isn't really purple, I'm changing the color, okay?
+$purple-000: #edab54 !default;
+$purple-100: #d09343 !default;
+$purple-200: #b07427 !default;
+$purple-300: #865619 !default;
+
+// change the tables so they are better for displaying recipes
+thead th {
+  border-bottom: 1px solid rgba(238,235,238,0.5);
+  font-weight: normal;
+}
+
+table {
+  min-width: auto;
+}
+
+.table-wrapper {
+  width: max-content;
+}
+// make blockquotes more highlighted
+blockquote {
+  background: #f1f1f4;
+  margin: 0;
+  padding: 5px;
+  padding-left: 50px;
+  margin-bottom: 20px;
+}
