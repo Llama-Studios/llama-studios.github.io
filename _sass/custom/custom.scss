@@ -1,22 +1,28 @@
 // change links to orange because why not?
-a, .btn, .icon, .search-input:focus+.search-label .search-icon, .search-result-doc .search-result-icon  {
+a, .btn, .icon, .search-input:focus+.search-label .search-icon, .search-result-doc .search-result-icon, .main-content .anchor-heading svg  {
   color: #ee8800!important
 }
 
 a:not([class]) {
-  background-image: linear-gradient(#eeeeeb 0%, #eeeeeb 100%);
+  background-image: linear-gradient(#eeeeeb 0%, #eeeeeb 100%)!important;
 }
 
 a:not([class]):hover {
-  background-image: linear-gradient(#e80a, #e80a);
+  background-image: linear-gradient(#e80a, #e80a)!important;
 }
 
 .site-button:hover, .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
-  background-color: #ffeedd;
+  background-color: #ffeedd!important;
+  background-image: none!important;
 }
 
 .search-result:hover, .search-result.active {
-  background-color: #f5f0e9;
+  background-color: #f5f0e9!important;
+}
+
+::selection {
+  color: #fff;
+  background: #ee8800!important;
 }
 
 // change the tables so they are better for displaying recipes
