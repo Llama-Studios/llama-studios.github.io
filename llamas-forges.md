@@ -87,6 +87,7 @@ Brass ingots are used to craft the [assembly table](#assembly table).
 The template table is a crafting table for making templates. Templates are items used in the [casting basin](#casting-basin) to make molds.
 
 The template table is crafted like this:
+
 | Z | Z | Z |
 |---|---|---|
 | P | P | P |
