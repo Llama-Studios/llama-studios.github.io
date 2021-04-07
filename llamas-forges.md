@@ -10,7 +10,9 @@ Llama's Forges is an addon for making cool customisable tools and armor. It is i
 
 [Download](/llamas-forges/llamasforges.mcaddon){: .btn } [Feedback and Bug Reports](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform){: .btn }
 
-**Make sure you enable all experimental features before playing!**
+> By downloading this addon, you agree not to repost it and to follow the [license](/license.html)
+
+> **Make sure you enable all experimental features before playing!**
 
 ## Getting Started
 To get started, you will need to mine [zinc](#zinc), a new ore, and also grab some terracotta, either from a mesa biome or by smelting clay blocks. You can then craft a [melting basin](#melting-basin), which is used to melt ores, and is fuelled using lava. See the [melting basin](#melting-basin) page for instructions.
