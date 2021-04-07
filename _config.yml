@@ -1,0 +1,13 @@
+title: "Llama Studios"
+logo: "https://avatars.githubusercontent.com/u/65722273?s=200&v=4"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+
+aux_links:
+  "YouTube":
+    - "https://www.youtube.com/channel/UCELAdQLU7zQZdSjoHk9fAAA"
+  "MCPEDL":
+    - "https://mcpedl.com/user/kyleplo/"
+
+aux_links_new_tab: true
