@@ -1,7 +1,7 @@
 title: "Llama Studios"
 logo: "https://avatars.githubusercontent.com/u/65722273?s=200&v=4"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+color_scheme: "light"
 search_enabled: true
 
 aux_links:
