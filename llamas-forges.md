@@ -1,5 +1,6 @@
 ---
 title: Llama's Forges
+nav_order: 2
 ---
 
 # Llama's Forges
