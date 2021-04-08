@@ -10,7 +10,7 @@ Llama's Forges is an addon for making cool customisable tools and armor. It is i
 
 [Download](/llamas-forges/llamasforges.mcaddon){: .btn } [Feedback and Bug Reports](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform){: .btn }
 
-> By downloading this addon, you agree not to repost it and to follow the [license](/license.html)
+> By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)
 
 > **Make sure you enable all experimental features before playing!**
 
