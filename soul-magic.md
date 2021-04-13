@@ -42,6 +42,8 @@ Soul Sparks can be placed the Pedestals of the [Soul Infuser](#soul-infuser), an
 They also have a smaller version known as the Soul Scrap. It is a common drop from [Souls](#souls) and [Missmatched Souls](#missmatched-souls), and four of them can be crafted into one Soul Spark.
 
 ## Soul Infuser
+![IMG_1602](https://user-images.githubusercontent.com/31634240/114616272-a72fd000-9c74-11eb-9085-f7b2250f0914.jpg)
+
 The Soul Infuser is a multiblock structure that is used to make spawn eggs and some other things. It is made up of two main parts. The Soul Infuser Core is the center of the Soul Infuser. It is crafted like this:
 
 | N | I | N |
@@ -119,6 +121,8 @@ Soul Meal is an item used in the crafting of spawners. It is made in the [Soul I
 When placed on the ground, Soul Meal will spawn a random mob (excluding bosses).
 
 ## Missmatched Souls
+![IMG_1601](https://user-images.githubusercontent.com/31634240/114616004-59b36300-9c74-11eb-80b4-5f988c56bc9e.jpg)
+
 The Missmatched Soul is a mini-boss mob that spawns when you don't correctly match a [Soul Jar](#soul-jar) with an [Amber or Mandrake](#amber-and-mandrakes) in the [Soul Infuser](#soul-infuser).
 
 Missmatched Souls look like completely blue Zombies. Their health, size, speed, knockback resistance, and attack damage is randomized. If they have extreme health or attack damage, they will have a boss bar. They also have a chance of having random beneficial (to them) effects, such as fire resistance, fall damage resistance, or an area of effect of damage, poison, weakness, or slowness.
@@ -126,6 +130,8 @@ Missmatched Souls look like completely blue Zombies. Their health, size, speed, 
 Missmatched Souls drop [Soul Sparks and Soul Scraps](#soul-sparks), as well as normal Zombie drops and XP.
 
 ## Souls
+![IMG_1603](https://user-images.githubusercontent.com/31634240/114616314-b0b93800-9c74-11eb-87ae-c1449ae4c05d.PNG)
+
 Souls are tiny blue flying mobs found in Soul Sand Valleys in the Nether. They have 15 health (7.5 hearts) and do 4 (2 hearts) of damage. They move by flying, similar to Bees but a bit faster. Upon death, they drop [Soul Sparks and Soul Scraps](#soul-sparks), as well as some XP.
 
 Souls can be captured in [Soul Jars](#soul-jar) by interacting (right clicking) on them while holding an empty Soul Jar.
@@ -143,5 +149,8 @@ The Spawner Smasher is crafted like this:
 |   | S |   |
 
 I = [soul silver ingot](#soul-silver)
+
 B = [soul silver block](#soul-silver)
+![IMG_1601](https://user-images.githubusercontent.com/31634240/114615985-54561880-9c74-11eb-93bd-a2dc673ff2e2.jpg)
+
 S = stick
