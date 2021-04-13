@@ -151,6 +151,5 @@ The Spawner Smasher is crafted like this:
 I = [soul silver ingot](#soul-silver)
 
 B = [soul silver block](#soul-silver)
-![IMG_1601](https://user-images.githubusercontent.com/31634240/114615985-54561880-9c74-11eb-93bd-a2dc673ff2e2.jpg)
 
 S = stick
