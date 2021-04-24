@@ -13,7 +13,9 @@ LlamaQuest is a light (< 8 MB), quest-based modpack for Minecraft Bedrock Editio
 
 > By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)
 
-> **Make sure you enable all experimental features before playing!**
+> **Make sure you enable the bonus chest and all experimental features before playing!**
+
+[Skip the permissions and see the fun stuff](#the-questbook)
 
 ## Mod List and Permissions
 - [Llama's Forges](/llamas-forges.html) by Llama Studios - This my own mod, so I don't need permission
@@ -52,3 +54,24 @@ LlamaQuest is a light (< 8 MB), quest-based modpack for Minecraft Bedrock Editio
 
   I adjusted the generation rates of a few of the trees.
 
+## The Questbook
+![Questbook Image](https://user-images.githubusercontent.com/31634240/115973831-f81daf00-a525-11eb-8449-9c6339a91e35.jpg)
+
+LlamaQuest is a quest-based modpack, so you'll spend a lot of time in this modpack working on quests. You will get the questbook in the bonus chest (you remembered to turn that on, didn't you?), but you can also craft one if you need to. To read the questbook, simply interact (right-click) while holding (do the same thing you would do to eat or throw an ender pearl). This will give you four new questbooks, for each of the quest branches. There are four branches, exploration, automation, magic, and cooking, with 25 quests each. Once you finish a branch, you can get a trophy to celebrate. Finish all the branches and you can get a special completionist trophy. To submit a quest, combine the questbook with the items required in the crafting table.
+
+## Pictures
+![LlamaQuest Thumbnail](https://user-images.githubusercontent.com/31634240/115959601-f37fd900-a4da-11eb-9213-4ee456546a5e.jpg)
+
+The LlamaQuest thumbnail, built out of the new blocks from Stratospheer's Paint Addon, which makes planks, stone, cobblestone, bricks, and more dyeable. In the background you can see an abandoned castle from More Simple Structures, as well as trees from Better Trees.
+
+![Crops and Giant Pumpkin](https://user-images.githubusercontent.com/31634240/115974050-f3f29100-a527-11eb-9e15-9c079c61108b.jpg)
+
+A giant pumpkin from Natural (Nature) Structures next to some wild bushes and crops from Lots More Food. I've laid out some cakes and other foods, also from Lots More Food.
+
+![Llama's Forges and Soul Magic](https://user-images.githubusercontent.com/31634240/115974091-492ea280-a528-11eb-996c-90471b3c1f58.jpg)
+
+On the left are the melting basin, casting basin, assembly table, template table, and zinc ore, all from Llama's Forges. On the right is some amber ore as well as a Soul Infuser from Soul Magic.
+
+![Questbook and Advanced Machinery](https://user-images.githubusercontent.com/31634240/115973831-f81daf00-a525-11eb-8449-9c6339a91e35.jpg)
+
+In the chat, you can see an example of how the questbook works. There is also the power core, water wheel, and some solar generators from Advanced Machinery. In the background you can see some trees from Better Trees.
