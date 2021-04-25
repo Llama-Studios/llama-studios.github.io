@@ -1,13 +1,12 @@
 ---
 title: LlamaQuest Modpack
 nav_order: 4
-nav_exclude: true
 ---
 
 # LlamaQuest
 ![LlamaQuest Thumbnail](https://user-images.githubusercontent.com/31634240/115959601-f37fd900-a4da-11eb-9213-4ee456546a5e.jpg)
 
-LlamaQuest is a light (< 8 MB), quest-based modpack for Minecraft Bedrock Edition, featuring both my mods and mods from the community which I got permission to use.
+LlamaQuest is a light (< 5 MB zipped), quest-based modpack for Minecraft Bedrock Edition, featuring both my mods and mods from the community which I got permission to use.
 
 [Download](/llamaquest.mcaddon){: .btn } [Feedback and Bug Reports](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform){: .btn }
 
@@ -15,7 +14,7 @@ LlamaQuest is a light (< 8 MB), quest-based modpack for Minecraft Bedrock Editio
 
 > **Make sure you enable the bonus chest and all experimental features before playing!**
 
-[Skip the permissions and see the fun stuff](#the-questbook)
+[Skip the permissions and see the fun stuff](#the-questbook){: .btn }
 
 ## Mod List and Permissions
 - [Llama's Forges](/llamas-forges.html) by Llama Studios - This my own mod, so I don't need permission
