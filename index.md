@@ -7,6 +7,13 @@ nav_order: 1
 Welcome to my website. Here you can find downloads and documentation for all of my addons.
 
 ## My Addons
+### LlamaQuest Modpack
+![LlamaQuest Thumbnail](https://user-images.githubusercontent.com/31634240/115959601-f37fd900-a4da-11eb-9213-4ee456546a5e.jpg)
+
+LlamaQuest is a light (< 5 MB zipped), quest-based modpack for Minecraft Bedrock Edition, featuring both my mods and mods from the community which I got permission to use.
+
+[Learn More](/llamaquest.html){: .btn }
+
 ### Soul Magic
 ![Soul Magic Thumbnail](https://user-images.githubusercontent.com/31634240/114284780-46a85500-9a20-11eb-861e-624e897630fd.PNG)
 
