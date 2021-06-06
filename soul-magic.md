@@ -27,9 +27,9 @@ Wither Meal is a somewhat-rare drop from Wither Skeletons, and nine of them can 
 - Grass -> Wither Grass
 - Nylium -> Wither Nylium
 - Logs/Stems -> Wither Stem
-- Leaves/Wart Blocks/Mushroom Blocks -> Withered Wart Block
-- Shroomlight/Pumpkin/Melon/Cocoa Beans -> Witherlight
-- Tall Grass/Cactus/Sugarcane -> Withered Tall Grass
+- Leaves/Wart Blocks/Mushroom Blocks/Moss Block -> Withered Wart Block
+- Shroomlight/Pumpkin/Melon/Cocoa Beans/Spore Blossom -> Witherlight
+- Tall Grass/Cactus/Sugarcane/Bamboo/Cave Vines/Dripleaves/Azaleas -> Withered Tall Grass
 - Flowers/Nether Fungus -> Wither Rose
 
 Wither Meal can also be crafted into four [Wither Dust](#wither-dust).
