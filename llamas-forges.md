@@ -28,7 +28,7 @@ Zinc nuggets can be crafted into white dye, as zinc is used for white paint in t
 
 Zinc ingots are used to craft the [template table](#template-table) and the [wrench](#wrench).
 
-Molten zinc can be combined with molten gold (will be copper in 1.17) to make molten [brass](#brass).
+Molten zinc can be combined with molten copper to make molten [brass](#brass).
 
 ## Wrench
 The wrench is a tool used to remove all of the machines in this addon. It is crafted from zinc. To use it, simply hold it and sneak-interact (shift-right click) on a machine to remove it.
@@ -74,11 +74,11 @@ To melt ores, make sure the melting basin is fueled, and then interact using the
 To make alloys, make sure the melting basin is fueled, and then interact, first with one ore, then with the other. You can take out the molten alloy using a bucket.
 
 There are two alloys you can create:
-- [Zinc](#zinc) + Gold (will be copper in 1.17) = [Brass](#brass)
+- [Zinc](#zinc) + Copper = [Brass](#brass)
 - Debris + Gold = Netherite
 
 ## Brass
-Brass is an alloy, made in the [melting basin](#melting-basin) using [zinc](#zinc) and gold (will be changed to copper in 1.17).
+Brass is an alloy, made in the [melting basin](#melting-basin) using [zinc](#zinc) and copper.
 
 Molten brass can be used to make strong molds in the [casting basin](#casting-basin).
 
