@@ -7,6 +7,13 @@ nav_order: 1
 Welcome to my website. Here you can find downloads and documentation for all of my addons.
 
 ## My Addons
+### Frostburn Expansion
+![frostburn_expansion_thumbnail](https://user-images.githubusercontent.com/31634240/127752077-ae805dac-546b-40ca-a269-dbc7b65d885d.png)
+
+Frostburn Expansion is an addon that improves upon the features of the 1.10 Frostburn Update.
+
+[Learn More](/frostburn-expansion.html){: .btn }
+
 ### Creative Cooking
 ![image](https://user-images.githubusercontent.com/31634240/125353109-21352b00-e330-11eb-809f-398f975cee83.png)
 
