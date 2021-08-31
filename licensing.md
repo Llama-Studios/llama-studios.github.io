@@ -3,7 +3,7 @@ title: License
 nav_order: 3
 ---
 # License
-All Llama Studios addons are protected by the following policies, which you agree to by downloading.
+All Llama Studios addons are protected by the following policies, which you agree to by downloading. Any violations of these policies will be handled [accordingly](#violations).
 
 ## Questions
 If you have any questions about this license, [contact me with this form](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform).
@@ -20,8 +20,10 @@ As Realms are weird sometimes, I will not offer technical support for addons use
 ## Sharing and Videos
 You're welcome to make videos and/or livestreams showcasing or containing my addons, as long as you include a link that follows the [linking guide](#links), and make it clear that I made the addon, not you.
 
+You may use videos or livestream with my addons in order to make money, such as through advertising.
+
 ## Reposts
-You __may not__ repost my addons on other websites, even if you do credit me.
+You __may not__ repost my addons on other websites, even if you do credit me. If you want my addons on your website, please contact me on Youtube or Discord.
 
 ## Modpacks
 You're welcome to make modpacks containing my addons, as long as you include a link that follows the [linking guide](#links), and make it clear that I made the addon, not you.
@@ -46,9 +48,16 @@ You may make changes to my addons for personal use.
 
 You __may not__ make changes to my addons and publish them online (except as part of a modpack), even if you do credit it me.
 
-You __may not__ make any money off of your modpack if you include my addons. This includes making money through AdFly, Linkvertise, or similar websites. You may still accept donations, Patreon, YouTube memberships, etc.
+You __may not__ make any money off of your modpack if you include my addons. This includes making money through AdFly, Linkvertise, or similar websites.
+
+You may still make money off of videos or livestreams of the modpack, including through advertising.
 
 ## Looking at Code
 You may look at my code and copy brief snippets.
 
 You __may not__ copy large sections of an addon's code and claim it as your own work.
+
+## Violations
+If I find out that you have violated this license, I will first attempt to contact you via either email, Youtube comments or Discord.
+
+If you do not respond, if you do not undo the violation, or if I cannot you, I will take further action. This website and all of my addons and videos are protected by [DMCA (Digital Millenium Copyright Act)](https://www.dmca.com/), which allows me to take action.
