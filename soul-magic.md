@@ -4,7 +4,7 @@ nav_order: 3
 ---
 
 # Soul Magic
-![Soul Magic Thumbnail](https://user-images.githubusercontent.com/31634240/114284780-46a85500-9a20-11eb-861e-624e897630fd.PNG)
+![Soul Magic Thumbnail](https://user-images.githubusercontent.com/31634240/132073704-e04f2677-8cb2-43b8-b716-2006fb7632ab.png)
 
 Soul Magic is an addon that adds magical ways of getting spawn eggs and mob spawners in survival mode.
 
@@ -42,7 +42,7 @@ Soul Sparks can be placed the Pedestals of the [Soul Infuser](#soul-infuser), an
 They also have a smaller version known as the Soul Scrap. It is a common drop from [Souls](#souls) and [Missmatched Souls](#missmatched-souls), and four of them can be crafted into one Soul Spark.
 
 ## Soul Infuser
-![IMG_1602](https://user-images.githubusercontent.com/31634240/114616272-a72fd000-9c74-11eb-9085-f7b2250f0914.jpg)
+![soul-magic_2 copy](https://user-images.githubusercontent.com/31634240/132073762-414ab023-aa5b-4322-88e2-bf76584330e5.jpeg)
 
 The Soul Infuser is a multiblock structure that is used to make spawn eggs and some other things. It is made up of two main parts. The Soul Infuser Core is the center of the Soul Infuser. It is crafted like this:
 
@@ -121,7 +121,7 @@ Soul Meal is an item used in the crafting of spawners. It is made in the [Soul I
 When placed on the ground, Soul Meal will spawn a random mob (excluding bosses).
 
 ## Missmatched Souls
-![IMG_1601](https://user-images.githubusercontent.com/31634240/114616004-59b36300-9c74-11eb-80b4-5f988c56bc9e.jpg)
+![soul-magic_3 copy](https://user-images.githubusercontent.com/31634240/132073797-dd747d6a-105a-4055-90c9-3209f07fa0c3.png)
 
 The Missmatched Soul is a mini-boss mob that spawns when you don't correctly match a [Soul Jar](#soul-jar) with an [Amber or Mandrake](#amber-and-mandrakes) in the [Soul Infuser](#soul-infuser).
 
@@ -130,7 +130,7 @@ Missmatched Souls look like completely blue Zombies. Their health, size, speed, 
 Missmatched Souls drop [Soul Sparks and Soul Scraps](#soul-sparks), as well as normal Zombie drops and XP.
 
 ## Souls
-![IMG_1603](https://user-images.githubusercontent.com/31634240/114616314-b0b93800-9c74-11eb-87ae-c1449ae4c05d.PNG)
+![soul-magic_2 copy](https://user-images.githubusercontent.com/31634240/132073807-2be0edc5-beb5-4ff2-9d19-37b9f6312cbb.png)
 
 Souls are tiny blue flying mobs found in Soul Sand Valleys in the Nether. They have 15 health (7.5 hearts) and do 4 (2 hearts) of damage. They move by flying, similar to Bees but a bit faster. Upon death, they drop [Soul Sparks and Soul Scraps](#soul-sparks), as well as some XP.
 
