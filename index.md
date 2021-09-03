@@ -29,7 +29,7 @@ LlamaQuest is a light (< 5 MB zipped), quest-based modpack for Minecraft Bedrock
 [Learn More](/llamaquest.html){: .btn }
 
 ### Soul Magic
-![Soul Magic Thumbnail](https://user-images.githubusercontent.com/31634240/114284780-46a85500-9a20-11eb-861e-624e897630fd.PNG)
+![Soul Magic Thumbnail](https://user-images.githubusercontent.com/31634240/132073704-e04f2677-8cb2-43b8-b716-2006fb7632ab.png)
 
 Soul Magic is an addon that adds magical ways of obtaining spawners and spawn eggs in survival mode, as well as a bunch of other things.
 
