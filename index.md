@@ -7,6 +7,13 @@ nav_order: 1
 Welcome to my website. Here you can find downloads and documentation for all of my addons.
 
 ## My Addons
+### Divine Dowsing
+![divine dowsing thumbnail](https://user-images.githubusercontent.com/31634240/132233236-051552de-7118-470e-9a27-3fceae87dbf3.png)
+
+Divine Dowsing is an addon that adds dowsing pseudoscience to Minecraft, making finding underground resources and structures easier.
+
+[Learn More](/divine-dowsing.html){: .btn }
+
 ### Frostburn Expansion
 ![frostburn_expansion_thumbnail](https://user-images.githubusercontent.com/31634240/127752077-ae805dac-546b-40ca-a269-dbc7b65d885d.png)
 
