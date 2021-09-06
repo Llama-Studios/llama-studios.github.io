@@ -49,7 +49,6 @@ L = log
 / = enchanted stick
 
 Enchanted sticks are either dropped by witches, or made from enchantable sticks. Enchantable sticks are crafted like this:
-
 |   | L |   |
 |---|---|---|
 | L | / | L |
