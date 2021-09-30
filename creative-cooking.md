@@ -22,7 +22,7 @@ This addon adds 4 new crops, which can be found in Mineshaft or Dungeon loot che
 - Rice - similar to tomatoes but must be planted in water
 - Soybeans - must be harvested quickly if you don't want it to dry out
 
-> Make sure you plant the crops on hydrated farmland, there is currently a Bedrock Edition bug that makes custom crops not work on normal farmland.
+> Make sure you plant the crops on hydrated farmland, there is currently a Bedrock Edition bug that makes custom crops not work on dry farmland.
 
 Flour can be made from wheat or rice, and makes dough when mixed with water. Dough can be cooked into bread, or crafted into pie crust, pasta, or cookie dough.
 

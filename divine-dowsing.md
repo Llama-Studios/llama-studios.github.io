@@ -58,7 +58,7 @@ L = lapis lazuli
 
 / = stick
 
-Hold the enchantable stick and interact (right-click) to make an enchanted stick. This also costs 4 levels.
+Hold the enchantable stick and interact (right-click) to make an enchanted stick. This costs 4 levels.
 
 ### Upgrading
 All of the dowsing rods can be upgraded to get more durability, more range, and a shorter cooldown. The following recipe is used to upgrade dowsing rods:
