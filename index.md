@@ -7,6 +7,13 @@ nav_order: 1
 Welcome to my website. Here you can find downloads and documentation for all of my addons.
 
 ## My Addons
+### Festive Lights
+![festive lights thumbnail](/images/festive-lights/thumb_branded.png)
+
+Festive Lights is a small addon that adds decorative lighting blocks to Minecraft.
+
+[Learn More](/festive-lights.html){: .btn }
+
 ### Divine Dowsing
 ![divine dowsing thumbnail](https://user-images.githubusercontent.com/31634240/132233236-051552de-7118-470e-9a27-3fceae87dbf3.png)
 
