@@ -8,7 +8,7 @@ Welcome to my website. Here you can find downloads and documentation for all of 
 
 ## My Addons
 ### Festive Lights
-![festive lights thumbnail](/images/festive-lights/thumb_branded.png)
+![Festive lights thumbnail](/images/festive-lights/thumb_branded.png)
 
 Festive Lights is a small addon that adds decorative lighting blocks to Minecraft.
 
