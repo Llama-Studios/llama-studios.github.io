@@ -31,6 +31,7 @@ To place hanging lights, place the lights while looking up. Once you have one pl
 
 ## Crafting
 All of the lights except for the rainbow one are crafted like this:
+
 |   | S |   |
 |---|---|---|
 |   | D |   |
