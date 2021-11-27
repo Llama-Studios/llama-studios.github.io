@@ -4,7 +4,7 @@ nav_order: 7
 ---
 
 # Festive Lights
-![thumbnail](/images/festive-lights/thumb_branded.png)
+![Thumbnail](/images/festive-lights/thumb_branded.png)
 
 Festive Lights is a small addon that adds decorative lighting blocks to Minecraft.
 
