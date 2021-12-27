@@ -7,6 +7,13 @@ nav_order: 1
 Welcome to my website. Here you can find downloads and documentation for all of my addons.
 
 ## My Addons
+### Santa's Visit
+![Santa's Visit Thumbnail](https://user-images.githubusercontent.com/31634240/146848160-b0189ab9-2dd4-4309-9ee6-b9ebac5207f0.png)
+
+Santa's Visit adds Santa to Minecraft, who will occasionally visit your house and deliver presents.
+
+[Learn More](/santas-visit.html){: .btn }
+
 ### Festive Lights
 ![Festive lights thumbnail](/images/festive-lights/thumb_branded.png)
 
