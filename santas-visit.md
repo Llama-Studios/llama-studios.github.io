@@ -1,6 +1,5 @@
 ---
 title: Santa's Visit
-nav_exclude: true
 ---
 # Santa's Visit
 Santa's Visit adds Santa to Minecraft, who will occasionally visit your house and deliver presents.
