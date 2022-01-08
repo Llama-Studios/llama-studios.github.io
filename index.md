@@ -7,6 +7,20 @@ nav_order: 1
 Welcome to my website. Here you can find downloads and documentation for all of my addons.
 
 ## My Addons
+### Frog Eat Stuff
+![Screen Shot 2022-01-08 at 10 22 07](https://user-images.githubusercontent.com/31634240/148650823-e057b82e-afc6-411a-82f3-95f409aa2d3b.png)
+
+Frog Eat Stuff is an addon that makes frogs eat more mobs, and adds custom items that mobs drop when eaten by frogs.
+
+[Learn More](/frog-eat-stuff.html){: .btn }
+
+### Peaceful Plus
+![thumb](https://user-images.githubusercontent.com/31634240/147771144-f9dfed83-cea2-4dc8-8b77-89a4a50b8d9b.png)
+
+Peaceful Plus is an addon that makes more items obtainable and easier to obtain in peaceful mode.
+
+[Learn More](/peaceful-plus.html){: .btn }
+
 ### Santa's Visit
 ![Santa's Visit Thumbnail](https://user-images.githubusercontent.com/31634240/146848160-b0189ab9-2dd4-4309-9ee6-b9ebac5207f0.png)
 
