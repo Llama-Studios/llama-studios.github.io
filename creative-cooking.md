@@ -1,6 +1,6 @@
 ---
 title: Creative Cooking
-nav_order: 5
+nav_order: 7
 ---
 
 # Creative Cooking

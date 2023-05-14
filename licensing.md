@@ -1,6 +1,6 @@
 ---
 title: License
-nav_order: 3
+nav_order: 2
 ---
 # License
 All Llama Studios addons are protected by the following policies, which you agree to by downloading. Any violations of these policies will be handled [accordingly](#violations).

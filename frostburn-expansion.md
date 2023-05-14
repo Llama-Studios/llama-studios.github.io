@@ -1,6 +1,5 @@
 ---
 title: Frostburn Expansion
-nav_order: 6
 ---
 
 # Frostburn Expansion
