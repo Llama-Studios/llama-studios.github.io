@@ -12,7 +12,7 @@ Frog Eat Stuff is an addon that makes frogs eat more mobs, and adds custom items
 
 > By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)
 
-> **You must be in Minecraft Beta 1.18.10.26 or later and enable Wild Update, Vanilla Experiments, and Holiday Creator Features to play!**
+> **You must enable Holiday Creator Features to play!**
 
 ## New Items and Blocks
 ![Screen Shot 2022-01-08 at 10 29 55](https://user-images.githubusercontent.com/31634240/148650963-de319c06-8a10-4f7a-80bc-4cae7b12ef20.png)

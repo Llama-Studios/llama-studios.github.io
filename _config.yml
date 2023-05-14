@@ -7,6 +7,8 @@ search_enabled: true
 aux_links:
   "YouTube":
     - "https://www.youtube.com/channel/UCELAdQLU7zQZdSjoHk9fAAA"
+  "ModBay":
+    - "https://modbay.org/user/LlamaStudios/"
   "MCPEDL":
     - "https://mcpedl.com/user/kyleplo/"
 

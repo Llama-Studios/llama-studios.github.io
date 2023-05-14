@@ -12,7 +12,7 @@ Festive Lights is a small addon that adds decorative lighting blocks to Minecraf
 
 > By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)
 
-> **Make sure you enable Holiday Creator Features and Experimental Molang Features before playing!**
+> **Make sure you enable Holiday Creator Features and Molang Features before playing!**
 
 [Watch my video explaining all of the features](https://youtu.be/HfwSsJXNA7o){: .btn }
 

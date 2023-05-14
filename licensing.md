@@ -35,7 +35,7 @@ You can also remove features from my addons if you really want to, I won't be th
 Other than that, you __may not__ make changes to my addons as part of your modpack.
 
 ## Links
-When linking to my addons, make sure you use link to either this website (llama-studios.github.io) or to MCPEDL.
+When linking to my addons, make sure you use link to either this website (llama-studios.github.io) or to MCPEDL or ModBay.
 
 You __may not__ create your own download link.
 
