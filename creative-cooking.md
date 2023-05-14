@@ -8,6 +8,8 @@ nav_order: 5
 
 Creative Cooking is an addon that makes food a creative process in Minecraft Bedrock Edition.
 
+> **Warning:** This addon has not been tested in the latest version of Minecraft at the time of writing. It may recieve updates in the future.
+
 [Download](/creativecooking.mcaddon){: .btn } [Feedback and Bug Reports](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform){: .btn }
 
 > By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)

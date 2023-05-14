@@ -8,6 +8,8 @@ nav_order: 4
 
 LlamaQuest is a light (< 5 MB zipped), quest-based modpack for Minecraft Bedrock Edition, featuring both my mods and mods from the community which I got permission to use.
 
+> **Warning:** This addon has not been tested in the latest version of Minecraft at the time of writing, and no further updates are planned.
+
 [Download](/llamaquest.mcaddon){: .btn } [Feedback and Bug Reports](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform){: .btn }
 
 > By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)

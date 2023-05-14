@@ -8,6 +8,8 @@ nav_order: 6
 
 Were you dissappointed by Minecraft 1.10, the Frostburn Update, the update that added husks, strays, and fossils? This addon expands upon the features added in the Frostburn Update to make them more interesting to play with.
 
+> **Warning:** This addon has not been tested in the latest version of Minecraft at the time of writing, and no further updates are planned.
+
 [Download](/frostburn_expansion.mcaddon){: .btn } [Feedback and Bug Reports](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform){: .btn }
 
 > By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)

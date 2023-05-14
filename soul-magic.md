@@ -8,6 +8,8 @@ nav_order: 3
 
 Soul Magic is an addon that adds magical ways of getting spawn eggs and mob spawners in survival mode.
 
+> **Warning:** This addon has not been tested in the latest version of Minecraft at the time of writing. It may recieve updates in the future.
+
 [Download](/soulmagic/soulmagic/soulmagic.mcaddon){: .btn } [Feedback and Bug Reports](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform){: .btn }
 
 > By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)
