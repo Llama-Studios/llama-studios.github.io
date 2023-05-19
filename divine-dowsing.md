@@ -1,6 +1,6 @@
 ---
 title: Divine Dowsing
-nav_order: 5
+nav_order: 6
 ---
 
 # Divine Dowsing
