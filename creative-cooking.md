@@ -12,7 +12,7 @@ Creative Cooking is an addon that makes cooking food a creative process in Minec
 
 > By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)
 
-> **Make sure you enable Holiday Creator Features and Additional Modding Capabilities before playing!**
+> **Make sure you enable Holiday Creator Features and Custom Biomes before playing!**
 
 [Watch my video explaining all of the features](https://youtu.be/sulms5fp2fI){: .btn }
 

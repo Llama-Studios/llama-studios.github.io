@@ -7,6 +7,13 @@ nav_order: 1
 Welcome to my website. Here you can find downloads and documentation for all of my addons.
 
 ## My Addons
+### Creative Cooking
+![Creative Cooking Thumbnail](/images/creativecooking/cc_0.png)
+
+Creative Cooking is an addon that makes cooking food a creative process in Minecraft Bedrock Edition.
+
+[Learn More](/creative-cooking.html){: .btn }
+
 ### Soul Magic
 ![Soul Magic Thumbnail](/images/soul_magic/sm_1.png)
 
@@ -34,13 +41,6 @@ Festive Lights is a small addon that adds decorative lighting blocks to Minecraf
 Frog Eat Stuff is an addon that makes frogs eat more mobs, and adds custom items that mobs drop when eaten by frogs.
 
 [Learn More](/frog-eat-stuff.html){: .btn }
-
-### Creative Cooking
-![image](https://user-images.githubusercontent.com/31634240/125353109-21352b00-e330-11eb-809f-398f975cee83.png)
-
-Creative Cooking is an addon that makes food a creative process in Minecraft Bedrock Edition.
-
-[Learn More](/creative-cooking.html){: .btn }
 
 ### Peaceful Plus
 ![thumb](https://user-images.githubusercontent.com/31634240/147771144-f9dfed83-cea2-4dc8-8b77-89a4a50b8d9b.png)
