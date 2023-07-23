@@ -8,7 +8,7 @@ nav_order: 2
 
 Creative Cooking is an addon that makes cooking food a creative process in Minecraft Bedrock Edition.
 
-[Download](/creativecooking.mcaddon){: .btn } [Feedback and Bug Reports](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform){: .btn }
+[Download](/creativecooking.mcaddon){: .btn } [Download Multiplayer Edition](/creativecooking_mp.mcaddon){: .btn } [Feedback and Bug Reports](https://docs.google.com/forms/d/e/1FAIpQLSeKr_PbqUBF1kBB8lWgr_bC1CY1TPUCAHrPu0u4AxsGWloGvQ/viewform){: .btn }
 
 > By downloading this addon, you agree not to repost it and to follow the [license](/licensing.html)
 
@@ -91,7 +91,11 @@ Cookie dough is made in the crafting table from flour and sugar, optionally also
 Breaking cocoa pods now drops cocoa pods as an item, which need to be broken down into beans and then dried by cooking them. Dried cocoa beans can then be made into brown dye or combined with sugar to make chocolate.
 
 ## Compatibility
-Creative Cooking does not use `player.json`, so it should be compatible with most other addons. Additionally, it uses the following item tags in recipes:
+Creative Cooking does not use `player.json`, so it should be compatible with most other addons. 
+
+> Note that the following features are currently not in the multiplayer edition of Creative Cooking due to a Minecraft bug
+
+Creative Cooking uses the following item tags in recipes:
 - `creativecooking:cheese`
 - `creativecooking:cherry`
 - `creativecooking:chili`
